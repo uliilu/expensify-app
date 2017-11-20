@@ -1,0 +1,11 @@
+html {
+    font-size: $rem-size;
+}
+body {
+    padding: 20px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: $m-size;
+}
+.is-active {
+    font-weight: 700;
+}
